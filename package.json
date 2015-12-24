@@ -23,5 +23,8 @@
   "homepage": "https://github.com/sirugh/adventofcode",
   "devDependencies": {
     "babel-cli": "^6.3.17"
+  },
+  "dependencies": {
+    "md5": "^2.0.0"
   }
 }
